@@ -1,0 +1,13 @@
+spring: 
+  application:
+    name: payment
+
+server:
+  port: 9091
+
+logging:
+  file: /tmp/payment.log
+
+payment.common: Common Payment Placeholder
+
+management.security.enabled: false

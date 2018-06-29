@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: dev
+
+---
+
+spring:
+  profiles: dev
+    
+beneficiary:
+  label: (DEV) Beneficiary Microservice
+  version: 1.0-SNAPSHOT

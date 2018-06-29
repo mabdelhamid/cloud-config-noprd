@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: dev
+
+---
+
+spring:
+  profiles: dev
+    
+payment:
+  label: (DEV) Payment Microservice
+  version: 1.0-SNAPSHOT

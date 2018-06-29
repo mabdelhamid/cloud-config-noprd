@@ -1,0 +1,13 @@
+spring: 
+  application:
+    name: beneficiary
+
+server:
+  port: 9090
+
+logging:
+  file: /tmp/beneficiary.log
+
+beneficiary.common: Common Beneficiary Placeholder
+
+management.security.enabled: false

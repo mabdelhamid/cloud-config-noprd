@@ -1,1 +1,2 @@
 dpy.message: Hello
+dpy.check.route: /check

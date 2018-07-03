@@ -2,5 +2,5 @@ spring:
   profiles: dev-biz
     
 payment:
-  label: (DEV) Payment Microservice
+  label: (DEV) Payment Microservice ${JAVA_HOME}
   version: 1.0-SNAPSHOT

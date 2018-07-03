@@ -1,2 +1,2 @@
-dpy.message: Willkomen
-dpy.check.route: /coucou
+dpy.message: Welcome
+dpy.check.route: /check

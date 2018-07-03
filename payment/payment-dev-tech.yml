@@ -1,0 +1,5 @@
+spring:
+  profiles: dev-tech
+
+payment.user: devs
+payment.password: devspwd

@@ -1,5 +1,5 @@
 spring:
-  profiles: prd
+  profiles: prd-biz
     
 payment:
   label: Payment Microservice

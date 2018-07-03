@@ -1,0 +1,6 @@
+spring:
+  profiles: prd
+    
+payment:
+  label: Payment Microservice
+  version: 1.0-RELEASE
